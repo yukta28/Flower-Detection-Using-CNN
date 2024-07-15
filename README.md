@@ -11,3 +11,5 @@ What’s Inside?
 ▶ Real-World Applications: The role of flower recognition in various fields
 
 Join me as we delve into the fascinating world of deep learning and computer vision! 
+
+Link to my Medium article: https://medium.com/@yuktaa2891/mastering-flower-recognition-with-convolutional-neural-networks-the-ultimate-guide-for-deep-8825c05530b3
